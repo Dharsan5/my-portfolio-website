@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Dharsan SP",
+    "url": "https://www.dharsansp.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharsan5/my-portfolio-website.git"
+  },
+  "license": "MIT",
+  "name": "portfolio",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "i": "^0.3.7",
+    "lil-gui": "^0.11.0",
+    "stats.js": "^0.17.0",
+    "three": "^0.134.0"
+  },
+  "devDependencies": {
+    "@types/stats.js": "^0.17.0",
+    "@types/three": "^0.136.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.8",
+    "vite-plugin-checker": "^0.6.4"
+  }
+}
