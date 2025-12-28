@@ -5,4 +5,4 @@
 # Contact
 ## Reach out on*LinkedIn*
 
-https://www.linkedin.com/in/dharsansp/
+https://www.linkedin.com/in/dharsan-sp/
