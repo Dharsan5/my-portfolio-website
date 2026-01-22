@@ -1,11 +1,7 @@
-
-
-
-
 # Hi there
 
-My name is Dhaarsan SP, I'm a passionate web developer and full stack software engineer. I have a strong interest in technology and design, from software engineering & machine learning to UI/UX & 3D graphics.
+A motivated and flexible fresher with a positive attitude and eagerness to learn, looking for an opportunity to develop my skills and make a meaningful contribution.
 
-In addition to my love of technology and design, I am also interested in education, history, economics and politics.
+I am interested in Frontend development and UI/UX design.
 
 Type "cd ~/projects" then "ls" to see details of some of the projects I have developed.
